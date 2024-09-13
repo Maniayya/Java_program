@@ -11,6 +11,6 @@ public class smallest_num_array {
       arr[i]=obj.nextInt();
      }
      Arrays.sort(arr);
-     System.out.println("Smallest num in Array :4 " + arr[0]);
+     System.out.println("Smallest num in Array : " + arr[0]);
 }
 }
